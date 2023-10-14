@@ -1,10 +1,14 @@
----
-name: User Story
-about: This template is for creating user stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
-. I know this is a weekend but we haven't kicked things off. Could we meet this afternoon for like an hour just to kick-off. Would 16:00 - 17:00 work? Or when is the earliest time you are available?
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
+ * [document what you know]
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
